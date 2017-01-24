@@ -154,17 +154,16 @@ My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (
 **** How computers process a program [0/2]
 - [ ] [[https://www.youtube.com/watch?v=42KTvGYQYnA][How does CPU execute program (video)]]
 - [ ] [[https://www.youtube.com/watch?v=Mv2XQgpbTNE][Machine Code Instructions (video)]]
-** Additional Books
+** Additional Books [0/7]
 - [ ] [[http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info][The Unix Programming Environment]]
 - [ ] [[https://www.amazon.com/dp/1593273894/][The Linux Command Line: A Complete Introduction]]
 - [ ] [[https://en.wikipedia.org/wiki/TCP/IP_Illustrated][TCP/IP Illustrated Series]]
 - [ ] [[https://www.amazon.com/gp/product/0596007124/][Head First Design Patterns]]
-- [ ] [[https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612][Design Patterns: Elements of Reusable Object-Oriente​d Software]]
-  - aka the canonical "Gang Of Four" book, or GOF
+- [ ] [[https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612][Design Patterns: Elements of Reusable Object-Oriente​d Software]] (aka the canonical "Gang Of Four" book)
 - [ ] [[https://landing.google.com/sre/book.html][Site Reliability Engineering]]
-  - [ ] [[https://landing.google.com/sre/][Site Reliability Engineering: How Google Runs Production Systems]]
+- [ ] [[https://landing.google.com/sre/][Site Reliability Engineering: How Google Runs Production Systems]]
 - [ ] [[https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/][UNIX and Linux System Administration Handbook, 4th Edition]]
-** Video Series
+** Video Series [0/30]
 - [ ] [[https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr][List of individual Dynamic Programming problems (each is short)]]
 - [ ] [[https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0][x86 Architecture, Assembly, Applications]] (11 videos)
 - [ ] [[https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8][MIT 18.06 Linear Algebra, Spring 2005]] (35 videos)
@@ -193,15 +192,14 @@ My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (
 - [ ] [[https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh][MIT 6.858 Computer Systems Security, Fall 2014]]
 - [ ] [[https://www.youtube.com/view_play_list?p=9D558D49CA734A02][Stanford: Programming Paradigms]] (27 videos)
 - [ ] [[https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy][Introduction to Cryptography by Christof Paar]]
-    - [[http://www.crypto-textbook.com/][Course Website along with Slides and Problem Sets]]
+  - [[http://www.crypto-textbook.com/][Course Website along with Slides and Problem Sets]]
 - [ ] [[https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV][Mining Massive Datasets - Stanford University]] (94 videos)
 - [ ] [[https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd][Graph Theory by Sarada Herke]] (67 videos)
 
 ** Computer Science Courses
 - [[https://github.com/open-source-society/computer-science][Directory of Online CS Courses]]
 - [[https://github.com/prakhar1989/awesome-courses][Directory of CS Courses (many with online lectures)]]
-** Papers
-These are Google papers OR well-known papers
+** Papers [0/17]
 - [ ] [[http://spinroot.com/courses/summer/Papers/hoare_1978.pdf][1978: Communicating Sequential Processes]]
   - [[https://godoc.org/github.com/thomas11/csp][implemented in Go]]
   - [[https://www.cs.cmu.edu/~crary/819-f09/][Love classic papers?]]
@@ -223,7 +221,7 @@ These are Google papers OR well-known papers
 - [ ] [[http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf][2015: How Developers Search for Code: A Case Study]]
 - [ ] [[http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf][2016: Borg, Omega, and Kubernetes]]
 
-* Algorithmic complexity / Big-O / Asymptotic analysis
+* Algorithmic complexity / Big-O / Asymptotic analysis [0/13]
 - [ ] [[https://www.youtube.com/watch?v=iOq5kSKqeR4][Harvard CS50 - Asymptotic Notation]] (video)
 - [ ] [[https://www.youtube.com/watch?v=V6mKVRU1evU][Big O Notations (general quick tutorial)]] (video)
 - [ ] [[https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN][Big O Notation (and Omega and Theta)]] best mathematical explanation (video)
@@ -239,7 +237,7 @@ These are Google papers OR well-known papers
 - [ ] [[http://bigocheatsheet.com/][Cheat Sheet]]
 * Data Structures
 ** Arrays
-*** Description:
+*** Description [0/8]
 - [ ] [[https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays][Arrays]] (video)
 - [ ] [[https://youtu.be/Wp8oiO_CZZE?t=15m32s][UCBerkley CS61B - Linear and Multi-Dim Arrays]] (video)
 - [ ] [[https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html][Basic Arrays]] (video)
@@ -275,37 +273,33 @@ These are Google papers OR well-known papers
   - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
 ** Linked Lists
-   - [ ] Description:
-       - [ ] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
-       - [ ] [CS 61B - Linked Lists (video)](https://www.youtube.com/watch?v=sJtJOtXCW_M&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=5)
-   - [ ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
-           - not the whole video, just portions about Node struct and memory allocation.
-   - [ ] Linked List vs Arrays:
-       - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
-       - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
-   - [ ] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
-   - [ ] Gotcha: you need pointer to pointer knowledge:
-       (for when you pass a pointer to a function that may change the address where that pointer points)
-       This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
-       - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
-   - [ ] implement (I did with tail pointer & without):
-       - [ ] size() - returns number of data elements in list
-       - [ ] empty() - bool returns true if empty
-       - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
-       - [ ] push_front(value) - adds an item to the front of the list
-       - [ ] pop_front() - remove front item and return its value
-       - [ ] push_back(value) - adds an item at the end
-       - [ ] pop_back() - removes end item and returns its value
-       - [ ] front() - get value of front item
-       - [ ] back() - get value of end item
-       - [ ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
-       - [ ] erase(index) - removes node at given index
-       - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
-       - [ ] reverse() - reverses the list
-       - [ ] remove_value(value) - removes the first item in the list with this value
-   - [ ] Doubly-linked List
-       - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
-       - No need to implement
+- [ ] Description:
+  - [ ] [[https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists][Singly Linked Lists]] (video)
+  - [ ] [[https://www.youtube.com/watch?v=sJtJOtXCW_M&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=5][CS 61B - Linked Lists]] (video)
+- [ ] [[https://www.youtube.com/watch?v=QN6FPiD0Gzo][C Code]] (video, see: portions about Node struct and memory allocation)
+- [ ] Linked List vs Arrays:
+  - [[https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays][Core Linked Lists Vs Arrays]] (video)
+  - [[https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays][In The Real World Linked Lists Vs Arrays]] (video)
+- [ ] [[https://www.youtube.com/watch?v=YQs6IC-vgmo][why you should avoid linked lists]] (video)
+  - Gotcha: you need pointer to pointer knowledge: for when you pass a pointer to a function that may change the address where that pointer points
+  - This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
+  - [[https://www.eskimo.com/~scs/cclass/int/sx8.html][Pointers to Pointers]]
+- [ ] implement (I did with tail pointer & without):
+  - [ ] size() - returns number of data elements in list
+  - [ ] empty() - bool returns true if empty
+  - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
+  - [ ] push_front(value) - adds an item to the front of the list
+  - [ ] pop_front() - remove front item and return its value
+  - [ ] push_back(value) - adds an item at the end
+  - [ ] pop_back() - removes end item and returns its value
+  - [ ] front() - get value of front item
+  - [ ] back() - get value of end item
+  - [ ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
+  - [ ] erase(index) - removes node at given index
+  - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
+  - [ ] reverse() - reverses the list
+  - [ ] remove_value(value) - removes the first item in the list with this value
+- [ ] [[https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists][Doubly-linked List]] (video)
 
 ** Stack
    - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
