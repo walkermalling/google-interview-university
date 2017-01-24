@@ -272,7 +272,7 @@ My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (
   - contiguous in memory, so proximity helps performance
   - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
-** Linked Lists
+** Linked Lists [0/6]
 - [ ] Description:
   - [ ] [[https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists][Singly Linked Lists]] (video)
   - [ ] [[https://www.youtube.com/watch?v=sJtJOtXCW_M&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=5][CS 61B - Linked Lists]] (video)
